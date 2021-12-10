@@ -1,3 +1,16 @@
+<h1 align="center">Hi 👋, I'm Diego</h1>
+<h3 align="center">A passionate fullstack developer</h3>
+
+- 🔭 I’m currently working on [Kinoko](https://www.kinoko.app/)
+
+- 🌱 I’m currently learning **more about Rails, anime.js and React**
+
+- 👨‍💻 All of my projects are available at [https://troopl.com/nazoadiego/](https://troopl.com/nazoadiego/)
+
+- 📝 I regularly write articles on [https://medium.com/@nazoadiego](https://medium.com/@nazoadiego)
+
+- 📫 How to reach me **yojouhanshumi@gmail.com**
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
