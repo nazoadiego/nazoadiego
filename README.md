@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **more about Rails, anime.js and React**
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/nazoadiego/](https://troopl.com/nazoadiego/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://nzoaportfolio.herokuapp.com/)
 
 - 📝 I regularly write articles on [https://medium.com/@nazoadiego](https://medium.com/@nazoadiego)
 
