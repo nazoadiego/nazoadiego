@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Diego</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h1 align="center">Hi, I'm Diego</h1>
+<h3 align="center">A fullstack developer</h3>
 
 - 🔭 I’m currently working on [Kinoko](https://www.kinoko.app/)
 
-- 🌱 I’m currently learning **more about Rails, anime.js and React**
+- 🌱 I’m currently learning **more about React, Gatsby, and Vue**
 
 - 👨‍💻 All of my projects are available in my [Portfolio](https://nazoadiego.github.io/portfolio/)
 
