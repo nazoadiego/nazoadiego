@@ -1,31 +1,22 @@
 <h1 align="center">Hi, I'm Diego</h1>
 <h3 align="center">A fullstack developer</h3>
 
-- 🔭 I’m currently working on [Kinoko](https://www.kinoko.app/)
+- 🔭 I’m currently working on [Arukeyo](https://arukeyo.vercel.app/)
 
-- 🌱 I’m currently learning **more about React, Gatsby, and Vue**
+- 🌱 I’m currently learning **more about React, Next, and TypeScript**
 
 - 👨‍💻 All of my projects are available in my [Portfolio](https://nazoadiego.github.io/portfolio/)
 
-- 📝 I regularly write articles on [https://medium.com/@nazoadiego](https://medium.com/@nazoadiego)
-
-- 📫 How to reach me **yojouhanshumi@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📝 I regularly write articles on [Arukeyo](https://arukeyo.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/nazoa-diego" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="nazoa-diego" height="30" width="40" /></a>
-  <a href="https://instagram.com/nazoadiego" target="blank"><img align="center"
+  <a href="https://instagram.com/nzoadiego" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="nazoadiego" height="30" width="40" /></a>
-  <a href="https://medium.com/@nazoadiego" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-      alt="@nazoadiego" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
