@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Diego</h1>
 <h3 align="center">I do stuff on the web</h3>
 
-- 🔭 I’m currently working on [Arukeyo](https://arukeyo.vercel.app/)
+- 🔭 I’m currently working on [Arukeyo](https://www.arukeyo.com/)
 
 - 🌱 I’m currently learning **more about React, Next, and TypeScript**
 
 - 👨‍💻 All of my projects are available in my [Portfolio](https://nazoadiego.github.io/portfolio/)
 
-- 📝 I regularly write articles on [Arukeyo](https://arukeyo.vercel.app/)
+- 📝 I regularly write articles on [Arukeyo](https://arukeyo.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
