@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **more about React, Next, and TypeScript**
 
-- 👨‍💻 All of my projects are available in my [Portfolio](https://nazoadiego.github.io/portfolio/)
-
-- 📝 I regularly write articles on [Arukeyo](https://arukeyo.com/)
+- 📝 I write articles on [Arukeyo](https://arukeyo.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
